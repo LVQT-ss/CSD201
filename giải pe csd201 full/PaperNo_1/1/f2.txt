@@ -1,0 +1,2 @@
+(iPhone8, 800.0, 5) (iPhone7, 700.0, 3) (iPhone6, 600.0, 8) (iPhone5, 500.0, 22) 
+(iPhone8, 800.0, 15) (iPhone7, 700.0, 13) (iPhone6, 600.0, 13) (iPhone5, 500.0, 27) 

@@ -1,0 +1,2 @@
+(Samsung_S8,850.0,2) (Samsung_S7,800.0,-7) (Samsung_S6,750.0,9) (Samsung_S5,700.0,4) (Samsung_S4,650.0,5) (Samsung_S3,600.0,3) (Samsung_S2,550.0,8) (Samsung_S1,500.0,22) 
+(VPhone,800.0,8) (Samsung_S8,850.0,2) (Samsung_S7,800.0,-7) (Samsung_S6,750.0,9) (Samsung_S5,700.0,4) (Samsung_S4,650.0,5) (Samsung_S3,600.0,3) (Samsung_S2,550.0,8) (Samsung_S1,500.0,22) 
